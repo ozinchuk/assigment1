@@ -24,3 +24,5 @@ I verified that there are no duplicate technical IDs in the table:
 I checked for "logical duplicates"—cases where different IDs refer to the same city (same name and exact coordinates):
 
 * **Findings**: Several duplicates were found. This suggests that the source file contains redundant entries for the same geographic locations.
+
+The original dataset: https://github.com/dr5hn/countries-states-cities-database/blob/master/json/countries%2Bcities.json
